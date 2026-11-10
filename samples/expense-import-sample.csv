@@ -1,0 +1,5 @@
+expense_date,description,amount,cashback,category,expense_for,payment_method,payment_platform,account,vendor,nature,transaction_kind,frequency,notes
+2026-07-04,Milk,72,0,Groceries / Milk,Family,UPI,Google Pay,HDFC,,need,expense,daily,Daily milk
+2026-07-04,Bike Petrol,500,0,Vehicle / Petrol,Personal,UPI,Google Pay,HDFC,,need,expense,occasionally,
+2026-07-05,Mutual Fund SIP,5000,0,Investment / Mutual Fund,Personal,Bank Transfer,,HDFC,,investment,investment,monthly,Monthly SIP
+2026-07-05,ATM Cash Withdrawal,2000,0,Cash Withdrawal,Personal,Cash Withdrawal,,SBI,,need,transfer,occasionally,Transfer to cash

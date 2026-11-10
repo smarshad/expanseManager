@@ -1,0 +1,2343 @@
+{
+    "exported_at": "2026-07-04T10:11:30+00:00",
+    "total": 126,
+    "data": [
+        {
+            "id": 104,
+            "name": "Cash Withdrawal",
+            "full_name": "Cash Withdrawal",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 14:43:38"
+        },
+        {
+            "id": 107,
+            "name": "Lending & Borrowing",
+            "full_name": "Lending & Borrowing",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 15:32:14"
+        },
+        {
+            "id": 1,
+            "name": "Household",
+            "full_name": "Household",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 8,
+            "name": "Groceries",
+            "full_name": "Groceries",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 18,
+            "name": "Vehicle",
+            "full_name": "Vehicle",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 25,
+            "name": "Travel",
+            "full_name": "Travel",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 33,
+            "name": "Food & Dining",
+            "full_name": "Food & Dining",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 40,
+            "name": "Medical",
+            "full_name": "Medical",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 6,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 47,
+            "name": "Utilities",
+            "full_name": "Utilities",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 7,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 53,
+            "name": "Family",
+            "full_name": "Family",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 8,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 57,
+            "name": "Shopping",
+            "full_name": "Shopping",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 9,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 62,
+            "name": "Personal Care",
+            "full_name": "Personal Care",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 10,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 67,
+            "name": "Entertainment",
+            "full_name": "Entertainment",
+            "parent_id": null,
+            "parent": null,
+            "nature": "want",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 11,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 72,
+            "name": "Investment",
+            "full_name": "Investment",
+            "parent_id": null,
+            "parent": null,
+            "nature": "investment",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 12,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 78,
+            "name": "Insurance",
+            "full_name": "Insurance",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 13,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 82,
+            "name": "Education",
+            "full_name": "Education",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 14,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 86,
+            "name": "Donation",
+            "full_name": "Donation",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 15,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 90,
+            "name": "Income",
+            "full_name": "Income",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 16,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 95,
+            "name": "Miscellaneous",
+            "full_name": "Miscellaneous",
+            "parent_id": null,
+            "parent": null,
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 17,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 117,
+            "name": "Kitchen Items",
+            "full_name": "Household / Kitchen Items",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-02 10:43:05"
+        },
+        {
+            "id": 125,
+            "name": "Misc Household",
+            "full_name": "Household / Misc Household",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-03 14:21:12"
+        },
+        {
+            "id": 124,
+            "name": "Water Can",
+            "full_name": "Household / Water Can",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-03 14:19:22"
+        },
+        {
+            "id": 2,
+            "name": "Maid Salary",
+            "full_name": "Household / Maid Salary",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 3,
+            "name": "Wife Pocket Money",
+            "full_name": "Household / Wife Pocket Money",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 4,
+            "name": "Home Expenses",
+            "full_name": "Household / Home Expenses",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 5,
+            "name": "Home Repair",
+            "full_name": "Household / Home Repair",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 6,
+            "name": "Gas Cylinder",
+            "full_name": "Household / Gas Cylinder",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 7,
+            "name": "Cleaning Supplies",
+            "full_name": "Household / Cleaning Supplies",
+            "parent_id": 1,
+            "parent": {
+                "id": 1,
+                "name": "Household"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 6,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 98,
+            "name": "Chicken",
+            "full_name": "Groceries / Chicken",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 11:52:48"
+        },
+        {
+            "id": 122,
+            "name": "Dairy",
+            "full_name": "Groceries / Dairy",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-03 12:05:31"
+        },
+        {
+            "id": 115,
+            "name": "Diaper",
+            "full_name": "Groceries / Diaper",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 19:56:15"
+        },
+        {
+            "id": 114,
+            "name": "Egg",
+            "full_name": "Groceries / Egg",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 19:54:25"
+        },
+        {
+            "id": 97,
+            "name": "Meat",
+            "full_name": "Groceries / Meat",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 11:52:37"
+        },
+        {
+            "id": 9,
+            "name": "Vegetables",
+            "full_name": "Groceries / Vegetables",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 10,
+            "name": "Fruits",
+            "full_name": "Groceries / Fruits",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 11,
+            "name": "Milk",
+            "full_name": "Groceries / Milk",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 12,
+            "name": "Bakery",
+            "full_name": "Groceries / Bakery",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 13,
+            "name": "Rice",
+            "full_name": "Groceries / Rice",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 14,
+            "name": "Flour",
+            "full_name": "Groceries / Flour",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 6,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 15,
+            "name": "Oil",
+            "full_name": "Groceries / Oil",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 7,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 16,
+            "name": "Spices",
+            "full_name": "Groceries / Spices",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 8,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 17,
+            "name": "General Grocery",
+            "full_name": "Groceries / General Grocery",
+            "parent_id": 8,
+            "parent": {
+                "id": 8,
+                "name": "Groceries"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 9,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 19,
+            "name": "Petrol",
+            "full_name": "Vehicle / Petrol",
+            "parent_id": 18,
+            "parent": {
+                "id": 18,
+                "name": "Vehicle"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 20,
+            "name": "Service",
+            "full_name": "Vehicle / Service",
+            "parent_id": 18,
+            "parent": {
+                "id": 18,
+                "name": "Vehicle"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 21,
+            "name": "Repair",
+            "full_name": "Vehicle / Repair",
+            "parent_id": 18,
+            "parent": {
+                "id": 18,
+                "name": "Vehicle"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 22,
+            "name": "Insurance",
+            "full_name": "Vehicle / Insurance",
+            "parent_id": 18,
+            "parent": {
+                "id": 18,
+                "name": "Vehicle"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 23,
+            "name": "Parking",
+            "full_name": "Vehicle / Parking",
+            "parent_id": 18,
+            "parent": {
+                "id": 18,
+                "name": "Vehicle"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 24,
+            "name": "Toll",
+            "full_name": "Vehicle / Toll",
+            "parent_id": 18,
+            "parent": {
+                "id": 18,
+                "name": "Vehicle"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 6,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 26,
+            "name": "Auto",
+            "full_name": "Travel / Auto",
+            "parent_id": 25,
+            "parent": {
+                "id": 25,
+                "name": "Travel"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 27,
+            "name": "Bus",
+            "full_name": "Travel / Bus",
+            "parent_id": 25,
+            "parent": {
+                "id": 25,
+                "name": "Travel"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 28,
+            "name": "Train",
+            "full_name": "Travel / Train",
+            "parent_id": 25,
+            "parent": {
+                "id": 25,
+                "name": "Travel"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 29,
+            "name": "Metro",
+            "full_name": "Travel / Metro",
+            "parent_id": 25,
+            "parent": {
+                "id": 25,
+                "name": "Travel"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 30,
+            "name": "Flight",
+            "full_name": "Travel / Flight",
+            "parent_id": 25,
+            "parent": {
+                "id": 25,
+                "name": "Travel"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 31,
+            "name": "Uber",
+            "full_name": "Travel / Uber",
+            "parent_id": 25,
+            "parent": {
+                "id": 25,
+                "name": "Travel"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 6,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 32,
+            "name": "Rapido",
+            "full_name": "Travel / Rapido",
+            "parent_id": 25,
+            "parent": {
+                "id": 25,
+                "name": "Travel"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 7,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 100,
+            "name": "Breakfast",
+            "full_name": "Food & Dining / Breakfast",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 14:34:23"
+        },
+        {
+            "id": 105,
+            "name": "Coconut Water",
+            "full_name": "Food & Dining / Coconut Water",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 15:11:38"
+        },
+        {
+            "id": 102,
+            "name": "Dinner",
+            "full_name": "Food & Dining / Dinner",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 14:34:45"
+        },
+        {
+            "id": 121,
+            "name": "Little Joys",
+            "full_name": "Food & Dining / Little Joys",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-03 11:44:08"
+        },
+        {
+            "id": 101,
+            "name": "Lunch",
+            "full_name": "Food & Dining / Lunch",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 14:34:35"
+        },
+        {
+            "id": 103,
+            "name": "SoftDrinks",
+            "full_name": "Food & Dining / SoftDrinks",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 14:36:00"
+        },
+        {
+            "id": 34,
+            "name": "Restaurant",
+            "full_name": "Food & Dining / Restaurant",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 35,
+            "name": "Tea",
+            "full_name": "Food & Dining / Tea",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 36,
+            "name": "Coffee",
+            "full_name": "Food & Dining / Coffee",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 37,
+            "name": "Snacks",
+            "full_name": "Food & Dining / Snacks",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 38,
+            "name": "Juice",
+            "full_name": "Food & Dining / Juice",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 39,
+            "name": "Ice Cream",
+            "full_name": "Food & Dining / Ice Cream",
+            "parent_id": 33,
+            "parent": {
+                "id": 33,
+                "name": "Food & Dining"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 6,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 41,
+            "name": "Medicines",
+            "full_name": "Medical / Medicines",
+            "parent_id": 40,
+            "parent": {
+                "id": 40,
+                "name": "Medical"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 42,
+            "name": "Doctor Consultation",
+            "full_name": "Medical / Doctor Consultation",
+            "parent_id": 40,
+            "parent": {
+                "id": 40,
+                "name": "Medical"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 43,
+            "name": "Hospital",
+            "full_name": "Medical / Hospital",
+            "parent_id": 40,
+            "parent": {
+                "id": 40,
+                "name": "Medical"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 44,
+            "name": "Lab Tests",
+            "full_name": "Medical / Lab Tests",
+            "parent_id": 40,
+            "parent": {
+                "id": 40,
+                "name": "Medical"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 45,
+            "name": "Dental",
+            "full_name": "Medical / Dental",
+            "parent_id": 40,
+            "parent": {
+                "id": 40,
+                "name": "Medical"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 46,
+            "name": "Eye Care",
+            "full_name": "Medical / Eye Care",
+            "parent_id": 40,
+            "parent": {
+                "id": 40,
+                "name": "Medical"
+            },
+            "nature": "need",
+            "budget_type": "no_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 6,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 123,
+            "name": "Credit Card Bill",
+            "full_name": "Utilities / Credit Card Bill",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-03 12:09:09"
+        },
+        {
+            "id": 113,
+            "name": "Railone Recharge",
+            "full_name": "Utilities / Railone Recharge",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 19:27:22"
+        },
+        {
+            "id": 111,
+            "name": "Rent",
+            "full_name": "Utilities / Rent",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 19:25:43"
+        },
+        {
+            "id": 116,
+            "name": "School Fees",
+            "full_name": "Utilities / School Fees",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 20:06:30"
+        },
+        {
+            "id": 112,
+            "name": "UTS Recharge",
+            "full_name": "Utilities / UTS Recharge",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 19:27:06"
+        },
+        {
+            "id": 48,
+            "name": "Electricity",
+            "full_name": "Utilities / Electricity",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 49,
+            "name": "Water",
+            "full_name": "Utilities / Water",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 50,
+            "name": "Internet",
+            "full_name": "Utilities / Internet",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 51,
+            "name": "Mobile Recharge",
+            "full_name": "Utilities / Mobile Recharge",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 52,
+            "name": "DTH",
+            "full_name": "Utilities / DTH",
+            "parent_id": 47,
+            "parent": {
+                "id": 47,
+                "name": "Utilities"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 54,
+            "name": "Parents",
+            "full_name": "Family / Parents",
+            "parent_id": 53,
+            "parent": {
+                "id": 53,
+                "name": "Family"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 55,
+            "name": "Children",
+            "full_name": "Family / Children",
+            "parent_id": 53,
+            "parent": {
+                "id": 53,
+                "name": "Family"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 56,
+            "name": "Gifts",
+            "full_name": "Family / Gifts",
+            "parent_id": 53,
+            "parent": {
+                "id": 53,
+                "name": "Family"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 99,
+            "name": "Dress",
+            "full_name": "Shopping / Dress",
+            "parent_id": 57,
+            "parent": {
+                "id": 57,
+                "name": "Shopping"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 11:57:42"
+        },
+        {
+            "id": 106,
+            "name": "Toy",
+            "full_name": "Shopping / Toy",
+            "parent_id": 57,
+            "parent": {
+                "id": 57,
+                "name": "Shopping"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 15:16:27"
+        },
+        {
+            "id": 58,
+            "name": "Clothes",
+            "full_name": "Shopping / Clothes",
+            "parent_id": 57,
+            "parent": {
+                "id": 57,
+                "name": "Shopping"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 59,
+            "name": "Shoes",
+            "full_name": "Shopping / Shoes",
+            "parent_id": 57,
+            "parent": {
+                "id": 57,
+                "name": "Shopping"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 60,
+            "name": "Electronics",
+            "full_name": "Shopping / Electronics",
+            "parent_id": 57,
+            "parent": {
+                "id": 57,
+                "name": "Shopping"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 61,
+            "name": "Furniture",
+            "full_name": "Shopping / Furniture",
+            "parent_id": 57,
+            "parent": {
+                "id": 57,
+                "name": "Shopping"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 63,
+            "name": "Haircut",
+            "full_name": "Personal Care / Haircut",
+            "parent_id": 62,
+            "parent": {
+                "id": 62,
+                "name": "Personal Care"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 64,
+            "name": "Salon",
+            "full_name": "Personal Care / Salon",
+            "parent_id": 62,
+            "parent": {
+                "id": 62,
+                "name": "Personal Care"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 65,
+            "name": "Gym",
+            "full_name": "Personal Care / Gym",
+            "parent_id": 62,
+            "parent": {
+                "id": 62,
+                "name": "Personal Care"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 66,
+            "name": "Cosmetics",
+            "full_name": "Personal Care / Cosmetics",
+            "parent_id": 62,
+            "parent": {
+                "id": 62,
+                "name": "Personal Care"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 68,
+            "name": "Movie",
+            "full_name": "Entertainment / Movie",
+            "parent_id": 67,
+            "parent": {
+                "id": 67,
+                "name": "Entertainment"
+            },
+            "nature": "want",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 69,
+            "name": "OTT",
+            "full_name": "Entertainment / OTT",
+            "parent_id": 67,
+            "parent": {
+                "id": 67,
+                "name": "Entertainment"
+            },
+            "nature": "want",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 70,
+            "name": "Games",
+            "full_name": "Entertainment / Games",
+            "parent_id": 67,
+            "parent": {
+                "id": 67,
+                "name": "Entertainment"
+            },
+            "nature": "want",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 71,
+            "name": "Outing",
+            "full_name": "Entertainment / Outing",
+            "parent_id": 67,
+            "parent": {
+                "id": 67,
+                "name": "Entertainment"
+            },
+            "nature": "want",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 110,
+            "name": "Medical Group",
+            "full_name": "Investment / Medical Group",
+            "parent_id": 72,
+            "parent": {
+                "id": 72,
+                "name": "Investment"
+            },
+            "nature": "investment",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 19:12:36"
+        },
+        {
+            "id": 73,
+            "name": "SIP",
+            "full_name": "Investment / SIP",
+            "parent_id": 72,
+            "parent": {
+                "id": 72,
+                "name": "Investment"
+            },
+            "nature": "investment",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 74,
+            "name": "Mutual Fund",
+            "full_name": "Investment / Mutual Fund",
+            "parent_id": 72,
+            "parent": {
+                "id": 72,
+                "name": "Investment"
+            },
+            "nature": "investment",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 75,
+            "name": "Stocks",
+            "full_name": "Investment / Stocks",
+            "parent_id": 72,
+            "parent": {
+                "id": 72,
+                "name": "Investment"
+            },
+            "nature": "investment",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 76,
+            "name": "Gold",
+            "full_name": "Investment / Gold",
+            "parent_id": 72,
+            "parent": {
+                "id": 72,
+                "name": "Investment"
+            },
+            "nature": "investment",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 77,
+            "name": "FD",
+            "full_name": "Investment / FD",
+            "parent_id": 72,
+            "parent": {
+                "id": 72,
+                "name": "Investment"
+            },
+            "nature": "investment",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 5,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 79,
+            "name": "Health Insurance",
+            "full_name": "Insurance / Health Insurance",
+            "parent_id": 78,
+            "parent": {
+                "id": 78,
+                "name": "Insurance"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 80,
+            "name": "Life Insurance",
+            "full_name": "Insurance / Life Insurance",
+            "parent_id": 78,
+            "parent": {
+                "id": 78,
+                "name": "Insurance"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 81,
+            "name": "Vehicle Insurance",
+            "full_name": "Insurance / Vehicle Insurance",
+            "parent_id": 78,
+            "parent": {
+                "id": 78,
+                "name": "Insurance"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 120,
+            "name": "Activities",
+            "full_name": "Education / Activities",
+            "parent_id": 82,
+            "parent": {
+                "id": 82,
+                "name": "Education"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-03 11:34:34"
+        },
+        {
+            "id": 119,
+            "name": "Madarsa",
+            "full_name": "Education / Madarsa",
+            "parent_id": 82,
+            "parent": {
+                "id": 82,
+                "name": "Education"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-02 14:05:04"
+        },
+        {
+            "id": 118,
+            "name": "Stationery",
+            "full_name": "Education / Stationery",
+            "parent_id": 82,
+            "parent": {
+                "id": 82,
+                "name": "Education"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-02 12:30:16"
+        },
+        {
+            "id": 83,
+            "name": "Books",
+            "full_name": "Education / Books",
+            "parent_id": 82,
+            "parent": {
+                "id": 82,
+                "name": "Education"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 84,
+            "name": "Courses",
+            "full_name": "Education / Courses",
+            "parent_id": 82,
+            "parent": {
+                "id": 82,
+                "name": "Education"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 85,
+            "name": "Fees",
+            "full_name": "Education / Fees",
+            "parent_id": 82,
+            "parent": {
+                "id": 82,
+                "name": "Education"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 126,
+            "name": "Sadka",
+            "full_name": "Donation / Sadka",
+            "parent_id": 86,
+            "parent": {
+                "id": 86,
+                "name": "Donation"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-03 14:50:36"
+        },
+        {
+            "id": 87,
+            "name": "Zakat",
+            "full_name": "Donation / Zakat",
+            "parent_id": 86,
+            "parent": {
+                "id": 86,
+                "name": "Donation"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 88,
+            "name": "Charity",
+            "full_name": "Donation / Charity",
+            "parent_id": 86,
+            "parent": {
+                "id": 86,
+                "name": "Donation"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 89,
+            "name": "Mosque",
+            "full_name": "Donation / Mosque",
+            "parent_id": 86,
+            "parent": {
+                "id": 86,
+                "name": "Donation"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 91,
+            "name": "Salary",
+            "full_name": "Income / Salary",
+            "parent_id": 90,
+            "parent": {
+                "id": 90,
+                "name": "Income"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 92,
+            "name": "Freelancing",
+            "full_name": "Income / Freelancing",
+            "parent_id": 90,
+            "parent": {
+                "id": 90,
+                "name": "Income"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 2,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 93,
+            "name": "Interest",
+            "full_name": "Income / Interest",
+            "parent_id": 90,
+            "parent": {
+                "id": 90,
+                "name": "Income"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 3,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 94,
+            "name": "Cashback",
+            "full_name": "Income / Cashback",
+            "parent_id": 90,
+            "parent": {
+                "id": 90,
+                "name": "Income"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 4,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 96,
+            "name": "Other",
+            "full_name": "Miscellaneous / Other",
+            "parent_id": 95,
+            "parent": {
+                "id": 95,
+                "name": "Miscellaneous"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 1,
+            "color_code": null,
+            "created_by": 1,
+            "created_at": "2026-07-01 04:30:20"
+        },
+        {
+            "id": 108,
+            "name": "Borrow Return",
+            "full_name": "Lending & Borrowing / Borrow Return",
+            "parent_id": 107,
+            "parent": {
+                "id": 107,
+                "name": "Lending & Borrowing"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 15:32:32"
+        },
+        {
+            "id": 109,
+            "name": "Loan Repaid",
+            "full_name": "Lending & Borrowing / Loan Repaid",
+            "parent_id": 107,
+            "parent": {
+                "id": 107,
+                "name": "Lending & Borrowing"
+            },
+            "nature": "need",
+            "budget_type": "soft_budget",
+            "monthly_budget": null,
+            "is_active": true,
+            "description": null,
+            "sort_order": 0,
+            "color_code": null,
+            "created_by": 20,
+            "created_at": "2026-07-01 15:32:44"
+        }
+    ]
+}

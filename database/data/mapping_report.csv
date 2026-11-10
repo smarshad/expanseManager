@@ -1,0 +1,185 @@
+old_serial,date,old_category,old_type,old_payment,parent,sub,for,method,platform,account,vendor,amount,cashback,rule,description
+236,2026-02-03,Breakfast,Family,Super Money,Food & Dining,Breakfast,Family,UPI,SuperMoney,HDFC,Local Food Vendor,60.0,0.24,direct_category,mendu vada
+237,2026-02-03,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,90.0,0.18,description_rule,milk
+238,2026-02-03,Food,Family,Super Money,Food & Dining,Coconut Water,Family,UPI,SuperMoney,HDFC,Local Food Vendor,60.0,0.24,description_rule,Coconut Water
+239,2026-02-03,Medicine,Family,Super Money,Medical,Medicines,Family,UPI,SuperMoney,HDFC,Medical Store,42.0,0.13,direct_category,pad
+240,2026-02-03,Lunch,Personal,Super Money,Food & Dining,Lunch,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,150.0,0.3,direct_category,2 days transfer to dubey
+241,2026-02-04,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,96.0,0.58,description_rule,2 kg sugar
+242,2026-02-04,Grocery,Grocery,Super Money,Groceries,Egg,Family,UPI,SuperMoney,HDFC,Other,105.0,0.45,description_rule,15 egg
+243,2026-02-04,Food,Grocery,Super Money,Groceries,Bakery,Family,UPI,SuperMoney,HDFC,Other,40.0,0.12,description_rule,bread
+244,2026-02-04,Medicine,Medical,Super Money,Medical,Medicines,Family,UPI,SuperMoney,HDFC,Medical Store,80.0,0.48,direct_category,sline material
+245,2026-02-04,Snacks,Grocery,Super Money,Food & Dining,Snacks,Family,UPI,SuperMoney,HDFC,Local Food Vendor,20.0,0.12,direct_category,cookire
+246,2026-02-04,Grocery,Grocery,Super Money,Household,Kitchen Items,Family,UPI,SuperMoney,HDFC,Other,180.0,0.6,description_rule,gala broom
+247,2026-02-04,Dinner,Ahliya,Super Money,Food & Dining,Dinner,Family,UPI,SuperMoney,HDFC,Local Food Vendor,220.0,0.45,direct_category,3ple rice
+248,2026-02-04,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,144.0,0.3,description_rule,1.5
+249,2026-02-04,Saloon,Personal,Super Money,Personal Care,Haircut,Personal,UPI,SuperMoney,HDFC,Other,170.0,0.3,direct_category,hair n beard
+250,2026-02-04,water,Grocery,Super Money,Household,Water Can,Family,UPI,SuperMoney,HDFC,Other,130.0,0.6,description_rule,with jar
+251,2026-02-05,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,120.0,0.45,description_rule,pulses
+252,2026-02-05,Food,Personal,Super Money,Food & Dining,Little Joys,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,10.0,0.05,direct_category,chhaas
+253,2026-02-05,Tea,Personal,Super Money,Groceries,Bakery,Personal,UPI,SuperMoney,HDFC,Other,35.0,0.21,description_rule,tea n bun maska
+254,2026-02-05,Grocery,Grocery,Bhim UPI,Groceries,Oil,Family,UPI,BHIMPay,HDFC,Other,521.3,3.0,description_rule,oil
+255,2026-02-05,Grocery,Grocery,Amazon UPI,Groceries,Oil,Family,UPI,Amazon,HDFC,Amazon,305.0,15.0,description_rule,oil in amazon balance
+256,2026-02-05,Shopping,Ahliya,Cred,Shopping,Shoes,Family,UPI,CRED,HDFC,Other,467.0,1.0,description_rule,shoes
+257,2026-02-05,Fruits,Family,Super Money,Groceries,Fruits,Family,UPI,SuperMoney,HDFC,Fruit Vendor,360.0,0.36,description_rule,anjeer kishmish
+258,2026-02-06,Investment,Personal,Bank Transfer,Investment,Mutual Fund,Personal,Bank Transfer,,HDFC,Groww,500.0,0.0,investment_rule,grrow
+259,2026-02-06,Breakfast,Family,Super Money,Food & Dining,Breakfast,Family,UPI,SuperMoney,HDFC,Local Food Vendor,60.0,0.27,direct_category,not know
+260,2026-02-06,Food,Family,Super Money,Food & Dining,Little Joys,Family,UPI,SuperMoney,HDFC,Local Food Vendor,40.0,0.42,direct_category,not know
+261,2026-02-06,Vegetables,Grocery,Super Money,Groceries,Vegetables,Family,UPI,SuperMoney,HDFC,Vegetable Vendor,30.0,0.25,description_rule,tomamto
+262,2026-02-06,Vegetables,Grocery,Super Money,Groceries,Vegetables,Family,UPI,SuperMoney,HDFC,Vegetable Vendor,40.0,0.12,description_rule,kakdi
+263,2026-02-06,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,55.0,0.23,description_rule,CHANA AND MOONG DA
+264,2026-02-06,Fruits,Grocery,Super Money,Groceries,Fruits,Family,UPI,SuperMoney,HDFC,Fruit Vendor,50.0,0.27,description_rule,grapes
+265,2026-02-06,Fruits,Grocery,Super Money,Groceries,Fruits,Family,UPI,SuperMoney,HDFC,Fruit Vendor,25.0,0.19,description_rule,chickoo
+266,2026-02-06,Grocery,Grocery,Super Money,Groceries,Vegetables,Family,UPI,SuperMoney,HDFC,Vegetable Vendor,50.0,0.15,description_rule,lehsun
+267,2026-02-06,Fruits,Grocery,Super Money,Groceries,Fruits,Family,UPI,SuperMoney,HDFC,Fruit Vendor,30.0,0.23,description_rule,banana
+268,2026-02-06,Fruits,Grocery,Super Money,Groceries,Fruits,Family,UPI,SuperMoney,HDFC,Fruit Vendor,100.0,0.3,description_rule,kharbooz
+269,2026-02-06,Grocery,Grocery,Cred,Groceries,General Grocery,Family,UPI,CRED,HDFC,Other,340.0,0.0,description_rule,pulses noori masala
+270,2026-02-06,Vegetables,Grocery,Super Money,Groceries,Vegetables,Family,UPI,SuperMoney,HDFC,Vegetable Vendor,50.0,0.42,description_rule,surjan fali
+271,2026-02-06,Food,Personal,Super Money,Food & Dining,Coconut Water,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,50.0,0.0,description_rule,coconut water
+272,2026-02-06,Mutton,Grocery,Super Money,Groceries,Meat,Family,UPI,SuperMoney,HDFC,Meat Shop,250.0,0.0,description_rule,mutton
+273,2026-02-06,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,30.0,0.0,direct_category,not know
+274,2026-02-06,Food,Personal,Super Money,Groceries,Fruits,Personal,UPI,SuperMoney,HDFC,Fruit Vendor,20.0,0.0,description_rule,watermelon juice
+275,2026-02-06,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,96.0,0.0,description_rule,daily
+276,2026-02-07,Mutton,Grocery,Cred,Groceries,Meat,Family,UPI,CRED,HDFC,Meat Shop,450.0,1.0,description_rule,mutton
+277,2026-02-07,Lunch,Personal,Cred,Food & Dining,Lunch,Personal,UPI,CRED,HDFC,Local Food Vendor,220.0,1.0,direct_category,3 days
+278,2026-02-07,water,Family,Cred,Household,Water Can,Family,UPI,CRED,HDFC,Other,250.0,0.0,description_rule,water tank
+279,2026-02-07,General,Personal,ATM,Cash Withdrawal,Cash Withdrawal,Personal,ATM,,HDFC,Other,1000.0,0.0,cash_withdrawal_rule,travel n others
+280,2026-02-08,Petrol,Family,Debit Card,Vehicle,Petrol,Family,Debit Card,,HDFC,Petrol Pump,313.0,0.0,direct_category,p
+281,2026-02-08,General,Personal,Amazon UPI,Utilities,Mobile Recharge,Personal,UPI,Amazon,HDFC,Other,22.0,0.0,description_rule,netpack
+282,2026-02-08,Medicine,Family,Super Money,Medical,Medicines,Family,UPI,SuperMoney,HDFC,Medical Store,325.0,0.32,direct_category,med
+283,2026-02-08,water,Grocery,Super Money,Household,Water Can,Family,UPI,SuperMoney,HDFC,Other,60.0,0.14,description_rule,jar 2
+284,2026-02-08,Tea,Personal,Super Money,Food & Dining,Tea,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,10.0,0.06,direct_category,1
+285,2026-02-08,General,Ahliya,Super Money,Medical,Eye Care,Family,UPI,SuperMoney,HDFC,Medical Store,600.0,0.3,description_rule,chashma
+286,2026-02-08,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,120.0,0.6,description_rule,milk n lassi
+287,2026-02-09,water,Grocery,Cred,Household,Water Can,Family,UPI,CRED,HDFC,Other,400.0,0.0,description_rule,tank
+288,2026-02-09,Travelling,Personal,Bhim UPI,Utilities,UTS Recharge,Personal,UPI,BHIMPay,HDFC,Other,120.0,4.0,description_rule,recharge rainone
+289,2026-02-09,Food,Personal,Cred,Groceries,Fruits,Personal,UPI,CRED,HDFC,Fruit Vendor,20.0,1.0,description_rule,watermelon juice
+290,2026-02-09,Lunch,Personal,Bhim UPI,Food & Dining,Lunch,Personal,UPI,BHIMPay,HDFC,Local Food Vendor,45.0,0.0,direct_category,SANDWICH
+291,2026-02-09,Food,Personal,Super Money,Food & Dining,Juice,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,20.0,0.15,description_rule,badam shake
+292,2026-02-09,Tea,Personal,Super Money,Food & Dining,Tea,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,40.0,0.18,direct_category,tea group
+293,2026-02-09,Dinner,Personal,Super Money,Food & Dining,Dinner,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,60.0,0.45,direct_category,chicken kandi
+294,2026-02-10,Breakfast,Ahliya,Amazon UPI,Groceries,General Grocery,Family,UPI,Amazon,HDFC,Other,60.0,2.0,description_rule,menu vada dal vada
+295,2026-02-10,Milk,Grocery,Amazon UPI,Groceries,Milk,Family,UPI,Amazon,HDFC,Milk Vendor,90.0,2.0,description_rule,daily
+296,2026-02-10,Dinner,Personal,Super Money,Groceries,General Grocery,Personal,UPI,SuperMoney,HDFC,Other,50.0,0.12,description_rule,dal fry
+297,2026-02-10,Snacks,Family,Super Money,Food & Dining,Snacks,Family,UPI,SuperMoney,HDFC,Local Food Vendor,40.0,0.24,direct_category,maawa jaebi
+298,2026-02-11,Breakfast,Personal,Super Money,Groceries,Meat,Personal,UPI,SuperMoney,HDFC,Meat Shop,60.0,0.27,description_rule,kheema
+299,2026-02-11,Breakfast,Personal,Super Money,Food & Dining,Breakfast,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,25.0,0.15,direct_category,roti
+300,2026-02-11,Breakfast,Personal,Super Money,Groceries,Bakery,Personal,UPI,SuperMoney,HDFC,Other,30.0,0.16,description_rule,bread pakoda
+301,2026-02-11,Vegetables,Personal,Super Money,Groceries,Vegetables,Personal,UPI,SuperMoney,HDFC,Vegetable Vendor,10.0,0.03,description_rule,adrak
+302,2026-02-11,Tea,Personal,Super Money,Food & Dining,Tea,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,17.0,0.15,direct_category,tea cookie
+303,2026-02-11,Milk,Grocery,Cred,Groceries,Milk,Family,UPI,CRED,HDFC,Milk Vendor,90.0,0.0,description_rule,milk
+304,2026-02-12,Lunch,Ahliya,Cred,Food & Dining,Lunch,Family,UPI,CRED,HDFC,Zomato,290.5,0.0,direct_category,zomato
+305,2026-02-12,Food,Ahliya,Super Money,Food & Dining,Coconut Water,Family,UPI,SuperMoney,HDFC,Local Food Vendor,50.0,0.37,description_rule,coconut water
+306,2026-02-12,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,144.0,0.43,description_rule,1.5
+307,2026-02-12,Grocery,Grocery,Super Money,Groceries,Egg,Family,UPI,SuperMoney,HDFC,Other,105.0,0.66,description_rule,egg
+308,2026-02-12,Breakfast,Ahliya,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,30.0,0.16,description_rule,dal vada
+309,2026-02-12,Breakfast,Family,Super Money,Food & Dining,Breakfast,Family,UPI,SuperMoney,HDFC,Local Food Vendor,60.0,0.3,direct_category,vada n dosa
+310,2026-02-12,Breakfast,Family,Super Money,Food & Dining,Breakfast,Family,UPI,SuperMoney,HDFC,Local Food Vendor,50.0,0.39,direct_category,roti
+311,2026-02-12,Dinner,Family,Super Money,Food & Dining,Dinner,Family,UPI,SuperMoney,HDFC,Local Food Vendor,262.0,0.31,direct_category,shahi pakwan on 11-02-26
+312,2026-02-12,Dinner,Ahliya,Cred,Food & Dining,Dinner,Family,UPI,CRED,HDFC,Local Food Vendor,506.0,0.0,direct_category,a1 ci
+313,2026-02-13,Breakfast,Family,Super Money,Food & Dining,Breakfast,Family,UPI,SuperMoney,HDFC,Local Food Vendor,30.0,0.09,direct_category,mendu vada
+314,2026-02-13,Snacks,Family,Super Money,Food & Dining,Snacks,Family,UPI,SuperMoney,HDFC,Local Food Vendor,20.0,0.12,direct_category,cookies
+315,2026-02-13,General,Family,ATM,Miscellaneous,Other,Family,ATM,,HDFC,Other,2000.0,0.0,fallback,shopping south mumbai
+316,2026-02-13,Travelling,Travel,Bhim UPI,Utilities,UTS Recharge,Personal,UPI,BHIMPay,HDFC,Other,50.0,4.0,description_rule,recharge
+317,2026-02-13,Travelling,Travel,Bhim UPI,Utilities,UTS Recharge,Personal,UPI,BHIMPay,HDFC,Other,50.0,0.0,description_rule,recharge
+318,2026-02-13,Shopping,Family,Bhim UPI,Shopping,Clothes,Family,UPI,BHIMPay,HDFC,Other,150.0,0.0,direct_category,adeeba dres
+319,2026-02-13,Snacks,Family,Super Money,Food & Dining,Snacks,Family,UPI,SuperMoney,HDFC,Local Food Vendor,10.0,0.05,direct_category,fingers
+320,2026-02-13,Shopping,Personal,Super Money,Shopping,Clothes,Personal,UPI,SuperMoney,HDFC,Other,400.0,0.3,description_rule,tshirt
+321,2026-02-13,Shopping,Ahliya,Super Money,Shopping,Clothes,Family,UPI,SuperMoney,HDFC,Other,250.0,0.3,description_rule,jeans
+322,2026-02-13,Food,Family,Super Money,Food & Dining,Juice,Family,UPI,SuperMoney,HDFC,Local Food Vendor,50.0,0.15,description_rule,juice
+323,2026-02-13,Shopping,Family,Bhim UPI,Shopping,Toy,Family,UPI,BHIMPay,HDFC,Other,450.0,0.0,description_rule,boxing kit
+324,2026-02-14,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,120.0,0.3,description_rule,milk n lassi
+325,2026-02-14,Breakfast,Family,Super Money,Groceries,Bakery,Family,UPI,SuperMoney,HDFC,Other,40.0,0.18,description_rule,bread
+326,2026-02-14,Grocery,Grocery,Amazon UPI,Household,Kitchen Items,Family,UPI,Amazon,HDFC,Other,560.0,0.0,description_rule,matka
+327,2026-02-14,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,1028.0,0.39,direct_category,frozen mart
+328,2026-02-14,Milk,Grocery,Bhim UPI,Groceries,Milk,Family,UPI,BHIMPay,HDFC,Milk Vendor,144.0,0.0,description_rule,milk
+329,2026-02-14,Medicine,Medical,Bhim UPI,Medical,Medicines,Family,UPI,BHIMPay,HDFC,Medical Store,270.0,0.0,direct_category,medicine
+330,2026-02-15,Breakfast,Family,Super Money,Food & Dining,Breakfast,Family,UPI,SuperMoney,HDFC,Local Food Vendor,90.0,0.39,direct_category,vada bhajiya
+331,2026-02-15,Mutual Funds,Personal,Gpay UPI,Investment,Mutual Fund,Personal,UPI,Google Pay,HDFC,Groww,16000.0,0.0,investment_rule,mf
+332,2026-02-15,Tea,Personal,Super Money,Food & Dining,Tea,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,30.0,0.13,direct_category,tea
+333,2026-02-15,Grocery,Grocery,Super Money,Groceries,Rice,Family,UPI,SuperMoney,HDFC,Other,195.0,0.39,description_rule,rice
+334,2026-02-15,Grocery,Grocery,Super Money,Groceries,Dairy,Family,UPI,SuperMoney,HDFC,Other,132.0,0.3,description_rule,rogan badam
+335,2026-02-15,Tea,Personal,Super Money,Food & Dining,Tea,Personal,UPI,SuperMoney,HDFC,Local Food Vendor,24.0,0.14,direct_category,tea
+336,2026-02-15,Tea,Personal,Cred,Food & Dining,Tea,Personal,UPI,CRED,HDFC,Local Food Vendor,12.0,1.0,direct_category,tea
+337,2026-02-16,Medicine,Medical,Super Money,Medical,Medicines,Family,UPI,SuperMoney,HDFC,Medical Store,50.95,0.2,direct_category,ibugesic plus
+338,2026-02-16,Tea,Personal,Cred,Groceries,Milk,Personal,UPI,CRED,HDFC,Milk Vendor,45.0,0.0,description_rule,tea milk toast
+339,2026-02-16,Lunch,Family,Super Money,Food & Dining,Lunch,Family,UPI,SuperMoney,HDFC,Local Food Vendor,50.0,0.3,direct_category,roti
+340,2026-02-16,Breakfast,Family,Super Money,Food & Dining,Breakfast,Family,UPI,SuperMoney,HDFC,Local Food Vendor,30.0,0.14,direct_category,mendu wada
+341,2026-02-16,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,90.0,0.39,description_rule,milk
+342,2026-02-16,Grocery,Grocery,Super Money,Groceries,Egg,Family,UPI,SuperMoney,HDFC,Other,72.0,0.3,description_rule,egg
+343,2026-02-16,Lunch,Personal,Cred,Food & Dining,Lunch,Personal,UPI,CRED,HDFC,Local Food Vendor,130.0,0.0,direct_category,khichda pulav
+344,2026-02-16,Lunch,Ahliya,Cred,Food & Dining,Lunch,Family,UPI,CRED,HDFC,Local Food Vendor,100.0,0.0,direct_category,rajdhani biryani
+345,2026-02-17,Grocery,Grocery,Bhim UPI,Groceries,Egg,Family,UPI,BHIMPay,HDFC,Other,72.0,0.0,description_rule,egg
+346,2026-02-17,Medicine,Family,Bhim UPI,Medical,Doctor Consultation,Family,UPI,BHIMPay,HDFC,Medical Store,200.0,0.0,description_rule,Dr fees
+347,2026-02-17,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,244.0,0.61,description_rule,milk n paneer
+348,2026-02-17,Vegetables,Grocery,Super Money,Groceries,Vegetables,Family,UPI,SuperMoney,HDFC,Vegetable Vendor,80.0,0.24,description_rule,kakdi tomato
+349,2026-02-17,Rent,Personal,ATM,Miscellaneous,Other,Personal,ATM,,HDFC,Other,18000.0,0.0,fallback,rent 17k
+350,2026-02-18,Grocery,Grocery,Super Money,Groceries,Dairy,Family,UPI,SuperMoney,HDFC,Other,175.0,0.78,description_rule,ghee
+351,2026-02-18,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,135.0,0.45,description_rule,milk
+352,2026-02-19,Medicine,Family,Super Money,Medical,Medicines,Family,UPI,SuperMoney,HDFC,Medical Store,95.0,0.23,direct_category,syrup
+353,2026-02-19,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,20.0,0.12,description_rule,chia seeds
+354,2026-02-19,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,60.0,0.14,direct_category,Grocery
+355,2026-02-19,Grocery,Grocery,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,50.0,0.15,direct_category,Grocery
+356,2026-02-19,Medicine,Family,Super Money,Medical,Medicines,Family,UPI,SuperMoney,HDFC,Medical Store,10.0,0.07,direct_category,pain killer
+357,2026-02-19,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,135.0,0.45,description_rule,milk
+358,2026-02-19,Grocery,Grocery,Super Money,Groceries,Diaper,Family,UPI,SuperMoney,HDFC,Other,580.0,0.3,description_rule,diaper
+359,2026-02-20,Fruits,Family,Super Money,Groceries,Fruits,Family,UPI,SuperMoney,HDFC,Fruit Vendor,50.0,0.15,description_rule,chico
+360,2026-02-20,Travelling,Personal,Super Money,Travel,Rapido,Personal,UPI,SuperMoney,HDFC,Rapido,98.0,0.45,description_rule,rapido
+361,2026-02-20,Travelling,Personal,Super Money,Travel,Rapido,Personal,UPI,SuperMoney,HDFC,Rapido,80.0,0.24,description_rule,rapido
+362,2026-02-20,Travelling,Personal,Cred,Travel,Metro,Personal,UPI,CRED,HDFC,Other,30.0,0.0,description_rule,metro
+363,2026-02-20,Travelling,Personal,Super Money,Travel,Train,Personal,UPI,SuperMoney,HDFC,Other,20.0,0.06,direct_category,office to st
+364,2026-02-20,Food,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,80.0,0.29,ramadan_override,iftaari
+365,2026-02-20,Fruits,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,50.0,0.3,ramadan_override,iftaari grapes
+366,2026-02-20,Fruits,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,160.0,0.6,ramadan_override,iftaari watermelon
+367,2026-02-20,Food,Personal,Super Money,Groceries,General Grocery,Personal,UPI,SuperMoney,HDFC,Other,140.0,0.36,description_rule,daleem
+368,2026-02-20,Dinner,Ahliya,Super Money,Food & Dining,Dinner,Family,UPI,SuperMoney,HDFC,Local Food Vendor,100.0,0.3,direct_category,pulav
+369,2026-02-20,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,90.0,0.13,description_rule,milk
+370,2026-02-20,Grocery,Grocery,Super Money,Groceries,Vegetables,Family,UPI,SuperMoney,HDFC,Vegetable Vendor,40.0,0.19,description_rule,aala
+371,2026-02-20,Shopping,Family,Super Money,Shopping,Clothes,Family,UPI,SuperMoney,HDFC,Other,280.0,0.3,description_rule,skarf
+372,2026-02-20,Food,Family,Cred,Food & Dining,Little Joys,Family,UPI,CRED,HDFC,Local Food Vendor,20.0,0.0,direct_category,naan
+373,2026-02-20,Travelling,Personal,Bhim UPI,Utilities,UTS Recharge,Personal,UPI,BHIMPay,HDFC,Other,50.0,0.0,description_rule,add balance
+374,2026-02-21,General,Personal,ATM,Cash Withdrawal,Cash Withdrawal,Personal,ATM,,HDFC,Other,1200.0,0.0,cash_withdrawal_rule,daily
+375,2026-02-21,Grocery,Grocery,Amazon UPI,Groceries,Egg,Family,UPI,Amazon,HDFC,Other,70.0,3.0,description_rule,egg
+376,2026-02-21,General,Personal,Amazon UPI,Miscellaneous,Other,Personal,UPI,Amazon,HDFC,Other,150.0,2.0,fallback,kb
+377,2026-02-21,Dinner,Ahliya,Amazon UPI,Food & Dining,Dinner,Family,UPI,Amazon,HDFC,Local Food Vendor,100.0,2.0,direct_category,Afzal Pulav
+378,2026-02-21,Dinner,Personal,Amazon UPI,Food & Dining,Dinner,Personal,UPI,Amazon,HDFC,Local Food Vendor,80.0,2.0,direct_category,Khichda
+379,2026-02-21,Milk,Grocery,Amazon UPI,Groceries,Milk,Family,UPI,Amazon,HDFC,Milk Vendor,90.0,3.0,description_rule,MIlk
+380,2026-02-22,Mutton,Grocery,Bhim UPI,Groceries,Meat,Family,UPI,BHIMPay,HDFC,Meat Shop,680.0,0.3,description_rule,mutton kheema
+381,2026-02-22,Fruits,Grocery,Bhim UPI,Groceries,Fruits,Family,UPI,BHIMPay,HDFC,Fruit Vendor,120.0,0.48,description_rule,papita piineappe
+382,2026-02-22,Petrol,Personal,Debit Card,Vehicle,Petrol,Personal,Debit Card,,HDFC,Petrol Pump,313.0,0.0,direct_category,petrol
+383,2026-02-22,Food,Family,Amazon UPI,Ramadan Expense,Ramadan Expense,Family,UPI,Amazon,HDFC,Other,140.0,2.0,ramadan_override,iftaari
+384,2026-02-22,Food,Family,Amazon UPI,Ramadan Expense,Ramadan Expense,Family,UPI,Amazon,HDFC,Other,120.0,0.0,ramadan_override,iftaari
+385,2026-02-22,Food,Family,Amazon UPI,Ramadan Expense,Ramadan Expense,Family,UPI,Amazon,HDFC,Other,100.0,2.0,ramadan_override,iftaari
+386,2026-02-22,Food,Family,Amazon UPI,Ramadan Expense,Ramadan Expense,Family,UPI,Amazon,HDFC,Other,50.0,0.0,ramadan_override,iftaari dahi wada
+387,2026-02-22,Medicine,Ahliya,Amazon UPI,Medical,Medicines,Family,UPI,Amazon,HDFC,Medical Store,380.0,0.0,direct_category,caclium gemcal
+388,2026-02-22,Vegetables,Grocery,Amazon UPI,Groceries,Vegetables,Family,UPI,Amazon,HDFC,Vegetable Vendor,10.0,0.0,description_rule,pudina
+389,2026-02-22,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,90.0,0.13,description_rule,milk
+390,2026-02-23,Credit Card Bill,Personal,Amazon UPI,Utilities,Credit Card Bill,Personal,UPI,Amazon,HDFC,Credit Card Bank,3351.5,15.0,credit_card_bill_rule,half pay
+391,2026-02-23,Fees,School,Bank Transfer,Education,Fees,Family,Bank Transfer,,HDFC,School,3024.78,0.0,education_rule,bank
+392,2026-02-23,Fruits,Grocery,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,50.0,0.15,ramadan_override,chickoo iftaari
+393,2026-02-23,Fruits,Grocery,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,30.0,0.09,ramadan_override,grapes iftaari
+394,2026-02-23,Grocery,Family,Super Money,Groceries,General Grocery,Family,UPI,SuperMoney,HDFC,Other,650.0,0.3,description_rule,honey n dates
+395,2026-02-23,Food,Family,Super Money,Food & Dining,Little Joys,Family,UPI,SuperMoney,HDFC,Local Food Vendor,20.0,0.04,direct_category,naan
+396,2026-02-23,Grocery,Ahliya,Super Money,Personal Care,Cosmetics,Family,UPI,SuperMoney,HDFC,Other,75.0,0.22,description_rule,face pack
+397,2026-02-23,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,90.0,0.13,description_rule,milk
+398,2026-02-24,Food,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,100.0,0.3,ramadan_override,meetha Naan iftari
+399,2026-02-24,Fruits,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,50.0,0.09,ramadan_override,pineapple iftaari
+400,2026-02-24,Fruits,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,120.0,0.3,ramadan_override,watermelon iftaari
+401,2026-02-24,Fruits,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,50.0,0.15,ramadan_override,chickoo iftaari
+402,2026-02-24,Snacks,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,65.0,0.1,ramadan_override,saomse iftaari
+403,2026-02-24,Milk,Family,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,90.0,0.13,description_rule,milk
+404,2026-02-24,Travelling,Personal,Bhim UPI,Travel,Train,Personal,UPI,BHIMPay,HDFC,Other,50.0,3.94,direct_category,ac titckt reacharge
+405,2026-02-25,Travelling,Personal,Bhim UPI,Utilities,UTS Recharge,Personal,UPI,BHIMPay,HDFC,Other,70.0,3.0,description_rule,ac ticket
+406,2026-02-25,Fruits,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,40.0,0.06,ramadan_override,grapes iftaari
+407,2026-02-25,Snacks,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,45.0,0.0,ramadan_override,samose iftari
+408,2026-02-25,Snacks,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,30.0,0.0,ramadan_override,kala chana
+409,2026-02-25,Dinner,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,190.0,0.0,ramadan_override,korma/naan/iftaari
+410,2026-02-25,Snacks,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,50.0,0.0,ramadan_override,Naan Roti
+411,2026-02-25,Milk,Grocery,Super Money,Groceries,Milk,Family,UPI,SuperMoney,HDFC,Milk Vendor,90.0,0.0,description_rule,milk
+412,2026-02-26,Travelling,Personal,Super Money,Travel,Rapido,Personal,UPI,SuperMoney,HDFC,Rapido,38.0,0.0,description_rule,Rapido
+413,2026-02-26,Travelling,Personal,Bhim UPI,Utilities,Railone Recharge,Personal,UPI,BHIMPay,HDFC,Other,60.0,3.01,description_rule,railone ac ticket
+414,2026-02-26,Travelling,Personal,Bhim UPI,Utilities,UTS Recharge,Personal,UPI,BHIMPay,HDFC,Other,70.0,3.0,description_rule,ac ticket
+415,2026-02-26,Fruits,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,120.0,0.0,ramadan_override,watermelon iftaari
+416,2026-02-26,Food,Personal,Super Money,Ramadan Expense,Ramadan Expense,Personal,UPI,SuperMoney,HDFC,Other,40.0,0.0,ramadan_override,Dahiwada
+417,2026-02-26,Snacks,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,50.0,0.0,ramadan_override,Bhajji
+418,2026-02-26,Snacks,Family,Super Money,Ramadan Expense,Ramadan Expense,Family,UPI,SuperMoney,HDFC,Other,90.0,0.0,ramadan_override,fried items
+419,2026-02-26,Milk,Grocery,Gpay UPI,Groceries,Milk,Family,UPI,Google Pay,HDFC,Milk Vendor,90.0,0.0,description_rule,milk

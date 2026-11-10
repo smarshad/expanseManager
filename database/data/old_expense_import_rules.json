@@ -1,0 +1,323 @@
+{
+  "version": "2026-07-04",
+  "import_name": "old_expenses_feb_2026_clean_import",
+  "special_rules_priority_order": [
+    {
+      "name": "Ramadan expense override",
+      "match_fields": [
+        "old_category",
+        "description",
+        "notes"
+      ],
+      "keywords_case_insensitive": [
+        "iftaar",
+        "iftar",
+        "iftaari",
+        "iftari",
+        "iftaar",
+        "sehri",
+        "ramadan",
+        "roza"
+      ],
+      "set": {
+        "parent_category": "Ramadan Expense",
+        "sub_category_if_contains_sehri": "Sehri",
+        "default_sub_category": "Iftaar",
+        "nature": "need",
+        "frequency": "occasionally"
+      }
+    }
+  ],
+  "expense_for_map": {
+    "Personal": "Personal",
+    "Family": "Family",
+    "Ahliya": "Family",
+    "Grocery": "Family",
+    "Medical": "Family",
+    "Travel": "Personal",
+    "School": "Family"
+  },
+  "payment_method_map": {
+    "Super Money": {
+      "payment_method": "UPI",
+      "account": "Super Money"
+    },
+    "Bhim UPI": {
+      "payment_method": "UPI",
+      "account": "Bhim UPI"
+    },
+    "Amazon UPI": {
+      "payment_method": "UPI",
+      "account": "Amazon UPI"
+    },
+    "Gpay UPI": {
+      "payment_method": "UPI",
+      "account": "GPay UPI"
+    },
+    "Cred": {
+      "payment_method": "Credit Card",
+      "account": "Cred"
+    },
+    "Debit Card": {
+      "payment_method": "Debit Card",
+      "account": "Debit Card"
+    },
+    "Bank Transfer": {
+      "payment_method": "Bank Transfer",
+      "account": "Bank Account"
+    },
+    "ATM": {
+      "payment_method": "ATM",
+      "account": "Cash Wallet"
+    }
+  },
+  "category_map": {
+    "Milk": [
+      "Groceries",
+      "Milk"
+    ],
+    "Grocery": [
+      "Groceries",
+      "General Grocery"
+    ],
+    "Vegetables": [
+      "Groceries",
+      "Vegetables"
+    ],
+    "Fruits": [
+      "Groceries",
+      "Fruits"
+    ],
+    "Mutton": [
+      "Groceries",
+      "Meat & Chicken"
+    ],
+    "Medicine": [
+      "Medical",
+      "Medicines"
+    ],
+    "Petrol": [
+      "Vehicle",
+      "Petrol"
+    ],
+    "Travelling": [
+      "Travel",
+      "Local Travel"
+    ],
+    "Shopping": [
+      "Shopping",
+      "General Shopping"
+    ],
+    "Saloon": [
+      "Personal Care",
+      "Salon"
+    ],
+    "water": [
+      "Household",
+      "Water Can"
+    ],
+    "Rent": [
+      "Rent",
+      "House Rent"
+    ],
+    "Fees": [
+      "Education",
+      "School Fees"
+    ],
+    "Mutual Funds": [
+      "Investment",
+      "Mutual Fund"
+    ],
+    "Investment": [
+      "Investment",
+      "Mutual Fund"
+    ],
+    "Credit Card Bill": [
+      "Transfer",
+      "Credit Card Payment"
+    ],
+    "Breakfast": [
+      "Food & Dining",
+      "Breakfast"
+    ],
+    "Lunch": [
+      "Food & Dining",
+      "Lunch"
+    ],
+    "Dinner": [
+      "Food & Dining",
+      "Dinner"
+    ],
+    "Food": [
+      "Food & Dining",
+      "General Food"
+    ],
+    "Tea": [
+      "Food & Dining",
+      "Tea/Coffee"
+    ],
+    "Snacks": [
+      "Food & Dining",
+      "Snacks"
+    ],
+    "General": [
+      "Miscellaneous",
+      "General"
+    ]
+  },
+  "description_keyword_map": [
+    {
+      "keywords": [
+        "egg"
+      ],
+      "parent_category": "Groceries",
+      "sub_category": "Eggs"
+    },
+    {
+      "keywords": [
+        "bread",
+        "bun",
+        "toast"
+      ],
+      "parent_category": "Groceries",
+      "sub_category": "Bakery"
+    },
+    {
+      "keywords": [
+        "oil"
+      ],
+      "parent_category": "Groceries",
+      "sub_category": "Oil"
+    },
+    {
+      "keywords": [
+        "sugar"
+      ],
+      "parent_category": "Groceries",
+      "sub_category": "Sugar"
+    },
+    {
+      "keywords": [
+        "rice"
+      ],
+      "parent_category": "Groceries",
+      "sub_category": "Rice"
+    },
+    {
+      "keywords": [
+        "pulses",
+        "chana",
+        "moong"
+      ],
+      "parent_category": "Groceries",
+      "sub_category": "Pulses"
+    },
+    {
+      "keywords": [
+        "diaper"
+      ],
+      "parent_category": "Family",
+      "sub_category": "Baby Care"
+    },
+    {
+      "keywords": [
+        "gala broom",
+        "broom",
+        "phenyl",
+        "harpic"
+      ],
+      "parent_category": "Household",
+      "sub_category": "Cleaning Supplies"
+    },
+    {
+      "keywords": [
+        "matka",
+        "jar",
+        "water tank"
+      ],
+      "parent_category": "Household",
+      "sub_category": "Water Can"
+    },
+    {
+      "keywords": [
+        "shoes",
+        "jeans",
+        "tshirt",
+        "dress",
+        "skar",
+        "scarf"
+      ],
+      "parent_category": "Shopping",
+      "sub_category": "Clothes"
+    },
+    {
+      "keywords": [
+        "boxing kit"
+      ],
+      "parent_category": "Shopping",
+      "sub_category": "Sports Items"
+    },
+    {
+      "keywords": [
+        "chashma"
+      ],
+      "parent_category": "Medical",
+      "sub_category": "Eye Care"
+    },
+    {
+      "keywords": [
+        "rapido"
+      ],
+      "parent_category": "Travel",
+      "sub_category": "Rapido"
+    },
+    {
+      "keywords": [
+        "metro"
+      ],
+      "parent_category": "Travel",
+      "sub_category": "Metro"
+    },
+    {
+      "keywords": [
+        "railone",
+        "ticket",
+        "titckt"
+      ],
+      "parent_category": "Travel",
+      "sub_category": "Train/AC Ticket"
+    },
+    {
+      "keywords": [
+        "zomato"
+      ],
+      "parent_category": "Food & Dining",
+      "sub_category": "Online Food"
+    },
+    {
+      "keywords": [
+        "mf",
+        "groww",
+        "grrow"
+      ],
+      "parent_category": "Investment",
+      "sub_category": "Mutual Fund"
+    },
+    {
+      "keywords": [
+        "credit card",
+        "half pay"
+      ],
+      "parent_category": "Transfer",
+      "sub_category": "Credit Card Payment"
+    }
+  ],
+  "default_values": {
+    "transaction_type": "expense",
+    "nature": "need",
+    "frequency": "occasionally",
+    "is_recurring": false,
+    "status": "paid",
+    "vendor_name": "Other"
+  }
+}

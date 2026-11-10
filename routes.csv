@@ -1,0 +1,82 @@
+
+  GET,HEAD        / .................................................................................................................................................................. 
+  GET,HEAD        auth/dashboard1 .................................................................................................. dashboard1 › Admin\DashboardController@dashboard1
+  GET,HEAD        auth/dashboard2 .................................................................................................. dashboard2 › Admin\DashboardController@dashboard2
+  GET,HEAD        auth/login .................................................................................................................. login › Auth\LoginController@showLogin
+  POST            auth/login ................................................................................................................. auth.login › Auth\LoginController@login
+  GET,HEAD        auth/password/forgot ......................................................................................... password.request › Auth\ForgotPasswordController@show
+  POST            auth/password/forgot ................................................................................ password.forgot.password › Auth\ForgotPasswordController@store
+  POST            auth/password/reset ........................................................................................... password.reset › Auth\ResetPasswordController@update
+  GET,HEAD        auth/password/reset/{token} ..................................................................................... password.reset › Auth\ResetPasswordController@show
+  GET,HEAD        auth/register ...................................................................................................... register › Auth\RegisterController@showRegister
+  POST            auth/register .................................................................................................... register.store › Auth\RegisterController@register
+  GET,HEAD        auth/verify/login/otp ............................................................................................ login.otp.show › Auth\LoginController@showOtpForm
+  POST            auth/verify/login/otp ............................................................................................ login.otp.verify › Auth\LoginController@verifyOtp
+  GET,HEAD        auth/verify/register/otp ................................................................................... register.otp.show › Auth\RegisterController@showOtpForm
+  POST            auth/verify/register/otp ...................................................................... register.otp.verify › Auth\RegisterController@verifyOtpAndCreateUser
+  GET,HEAD        category ................................................................................................................. category.index › CategoryController@index
+  GET,HEAD        category/create ........................................................................................................ category.create › CategoryController@create
+  GET,HEAD        category/list .............................................................................................................. category.list › CategoryController@list
+  POST            category/store ........................................................................................................... category.store › CategoryController@store
+  PUT             category/{id} .......................................................................................................... category.update › CategoryController@update
+  DELETE          category/{id} ........................................................................................................ category.destroy › CategoryController@destroy
+  GET,HEAD        category/{id}/edit ......................................................................................................... category.edit › CategoryController@edit
+  GET,HEAD        expense .................................................................................................................... expense.index › ExpenseController@index
+  GET,HEAD        expense-type ....................................................................................................... expensetype.index › ExpenseTypeController@index
+  GET,HEAD        expense-type/create .............................................................................................. expensetype.create › ExpenseTypeController@create
+  GET,HEAD        expense-type/getAll ................................................................................................ expensetype.list › ExpenseTypeController@getAll
+  POST            expense-type/store ................................................................................................. expensetype.store › ExpenseTypeController@store
+  PUT             expense-type/{id} ................................................................................................ expensetype.update › ExpenseTypeController@update
+  DELETE          expense-type/{id} .............................................................................................. expensetype.destroy › ExpenseTypeController@destroy
+  GET,HEAD        expense-type/{id}/edit ............................................................................................... expensetype.edit › ExpenseTypeController@edit
+  GET,HEAD        expense/create ........................................................................................................... expense.create › ExpenseController@create
+  GET,HEAD        expense/getAll ............................................................................................................. expense.list › ExpenseController@getAll
+  POST            expense/store .............................................................................................................. expense.store › ExpenseController@store
+  PUT             expense/{id} ............................................................................................................. expense.update › ExpenseController@update
+  DELETE          expense/{id} ........................................................................................................... expense.destroy › ExpenseController@destroy
+  GET,HEAD        expense/{id}/edit ............................................................................................................ expense.edit › ExpenseController@edit
+  GET,HEAD        lock .................................................................................................................... lock.show › Auth\LockScreenController@show
+  POST            lock/lock ............................................................................................................... lock.lock › Auth\LockScreenController@lock
+  POST            lock/unlock ......................................................................................................... lock.unlock › Auth\LockScreenController@unlock
+  POST            logout ........................................................................................................................ logout › Auth\AuthController@destroy
+  GET,HEAD        logs ............................................................................................... logs › Rap2hpoutre\LaravelLogViewer › LogViewerController@index
+  PUT             password ....................................................................................................... password.update › Account\PasswordController@update
+  GET,HEAD        payment-method ................................................................................................. paymentmethod.index › PaymentMethodController@index
+  GET,HEAD        payment-method/create ........................................................................................ paymentmethod.create › PaymentMethodController@create
+  GET,HEAD        payment-method/getAll .......................................................................................... paymentmethod.list › PaymentMethodController@getAll
+  POST            payment-method/store ........................................................................................... paymentmethod.store › PaymentMethodController@store
+  PUT             payment-method/{id} .......................................................................................... paymentmethod.update › PaymentMethodController@update
+  DELETE          payment-method/{id} ........................................................................................ paymentmethod.destroy › PaymentMethodController@destroy
+  GET,HEAD        payment-method/{id}/edit ......................................................................................... paymentmethod.edit › PaymentMethodController@edit
+  GET,HEAD        permissions ......................................................................................................... permissions.index › PermissionController@index
+  POST            permissions ......................................................................................................... permissions.store › PermissionController@store
+  GET,HEAD        permissions/create ................................................................................................ permissions.create › PermissionController@create
+  GET,HEAD        permissions/{permission} .............................................................................................. permissions.show › PermissionController@show
+  PUT,PATCH       permissions/{permission} .......................................................................................... permissions.update › PermissionController@update
+  DELETE          permissions/{permission} ........................................................................................ permissions.destroy › PermissionController@destroy
+  GET,HEAD        permissions/{permission}/edit ......................................................................................... permissions.edit › PermissionController@edit
+  GET,HEAD        profile ............................................................................................................... profile.edit › ProfileController@showProfile
+  PATCH           profile .................................................................................................................. profile.update › ProfileController@update
+  DELETE          profile ................................................................................................................ profile.destroy › ProfileController@destroy
+  PUT             profile/two-factor-auth .................................................................................. profile.two.factor.auth › ProfileController@twoFactorAuth
+  GET,HEAD        roles ........................................................................................................................... roles.index › RoleController@index
+  POST            roles ........................................................................................................................... roles.store › RoleController@store
+  GET,HEAD        roles/create .................................................................................................................. roles.create › RoleController@create
+  GET,HEAD        roles/{role} ...................................................................................................................... roles.show › RoleController@show
+  PUT,PATCH       roles/{role} .................................................................................................................. roles.update › RoleController@update
+  DELETE          roles/{role} ................................................................................................................ roles.destroy › RoleController@destroy
+  GET,HEAD        roles/{role}/edit ................................................................................................................. roles.edit › RoleController@edit
+  GET,HEAD        storage/{path} ....................................................................................................................................... storage.local
+  GET,HEAD        up ................................................................................................................................................................. 
+  GET,HEAD        users ........................................................................................................................... users.index › UserController@index
+  POST            users ........................................................................................................................... users.store › UserController@store
+  GET,HEAD        users/create .................................................................................................................. users.create › UserController@create
+  GET,HEAD        users/{user} ...................................................................................................................... users.show › UserController@show
+  PUT,PATCH       users/{user} .................................................................................................................. users.update › UserController@update
+  DELETE          users/{user} ................................................................................................................ users.destroy › UserController@destroy
+  GET,HEAD        users/{user}/edit ................................................................................................................. users.edit › UserController@edit
+  GET,HEAD        users/{user}/permissions ......................................................................................... users.permissions › UserPermissionController@edit
+  PUT             users/{user}/permissions ................................................................................ users.permissions.update › UserPermissionController@update
+
+                                                                                                                                                                   Showing [78] routes
+
